@@ -54,7 +54,7 @@ Renewable energy is one of the most effective tools we have in the fight against
 
 -----
 ### Methods
------
+
 The researchers will use the datasets provided by Our World in Data to identify areas where renewable energy system efficiency can be improved and to forecast renewable energy demand and supply. The datasets to be used include Statista's global climate change data for observing and monitoring changes on a worldwide scale, as well as understanding and mitigating the effects of renewable energy on climate change. 
 
 Data analysis tools are critical for comprehending the consequences of renewable energy and climate change, recognizing trends and patterns in data, and establishing effective climate change mitigation and adaptation measures.
