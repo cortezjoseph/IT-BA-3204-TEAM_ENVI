@@ -76,4 +76,6 @@ Life cycle assessment (LCA) is a strategy for assessing the environmental implic
 * https://www.greenpeace.org/international/story/47338/earth-to-humans/
 * https://www.un.org/en/climatechange/climate-solutions/cities-pollution?
 * https://www.un.org/en/global-issues/climate-change?
+* https://www.globalgoals.org/goals/7-affordable-and-clean-energy/
+* https://www.globalgoals.org/goals/13-climate-action/
 -----
