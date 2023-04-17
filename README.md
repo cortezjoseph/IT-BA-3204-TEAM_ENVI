@@ -42,6 +42,19 @@ As a result of industrialization, deforestation, and large-scale agriculture tha
 -----
 ### Methods
 -----
+The researchers will use the datasets provided by Our World in Data to identify areas where renewable energy system efficiency can be improved and to forecast renewable energy demand and supply. The datasets to be used include Statista's global climate change data for observing and monitoring changes on a worldwide scale, as well as understanding and mitigating the effects of renewable energy on climate change. 
+
+   Data analysis tools are critical for comprehending the consequences of renewable energy and climate change, recognizing trends and patterns in data, and establishing effective climate change mitigation and adaptation measures.
+
+The following are the data analysis methodologies used in renewable energy and climate change research:
+
+Time-series analysis is used to examine data that has been collected over time. This technique can be used to analyze trends and patterns in renewable energy generation and consumption, as well as the long-term effects of climate change.
+
+Geographic information systems (GIS) will be utilized to analyze spatial data. It is used to map and study renewable energy resources such as solar wind potential, as well as to estimate the effects of climate change on ecosystems and vulnerable populations.
+
+Life cycle assessment (LCA) is a strategy for assessing the environmental implications of items or processes over their full life cycle. This technique can assist in identifying the environmental implications of renewable energy sources and comparing them to those of non-renewable energy sources.
+
+
 ### Expected Output
 -----
 ### References
