@@ -2,20 +2,15 @@
 # <p align="center"> Analysis of How Climate Change is Impacted by Renewable Energy Sources </p>
 ### Team Members
 -----
-
 **<h6 align="center">Cortez, Joseph S.</h6>**
 **<h6 align="center">Falculan, Kristel</h6>**
 **<h6 align="center">Lucero, Darell Marius</h6>**
 **<h6 align="center">Panaligan, Kaycee</h6>**
-
 -----
-
 ### Introduction
 -----
-
 ### Sustainable Development Goals (SDGs)
 -----
-
 <p align = "center">Renewable energy solutions are becoming cheaper, more reliable and more efficient every day.Our current reliance on fossil fuels is unsustainable and harmful to the planet, which is why we have to change the way we produce and consume energy. Implementing these new energy solutions as fast as possible is essential to counter climate change, one of the biggest threats to our own survival.</p>
 
 **<p align="center">Goal 7: Affordable and Clean Energy </p>**
@@ -23,10 +18,6 @@
 ![header 2](https://user-images.githubusercontent.com/114766731/232507317-5b461359-ff05-4083-b710-adb108905862.png)
 
 **<p align="center">Goal 13: Climate Action </p>**
-
-<p align = "center">Climate change is a real and undeniable threat to our entire civilization.The effects are already visible and will be catastrophic unless we act now. Through education, innovation and adherence to our climate commitments, we can make the necessary changes to protect the planet. These changes also provide huge opportunities to modernize our infrastructure which will create new jobs and promote greater prosperity across the globe.</p>
-
------
 
 ### Problem Statement
 -----
@@ -36,6 +27,10 @@ As a result of industrialization, deforestation, and large-scale agriculture tha
 
 ### Significance of the Proposed Project
 -----
+Ineffectiveness of energy sources and
+The transition of systems is a barrier to economic and human progress. The environment offers a variety of renewable and non-renewable energy sources, including uranium, sun, wind, hydropower, geothermal, and biofuels. 
+
+Global climate change consequences will result from increased fossil fuel use in the absence of mitigation measures for greenhouse gas emissions. Disaster risk reduction and climate change mitigation are both facilitated by the usage of renewable energy sources and energy efficiency. Ecosystem preservation and protection enable for the continued use and advancement of hydropower and bioenergy sourcesof renewable energy sources and energy efficiency. Ecosystem preservation and protection enable for the continued use and advancement of hydropower and bioenergy sources
 ### Methods
 -----
 ### Expected Output
