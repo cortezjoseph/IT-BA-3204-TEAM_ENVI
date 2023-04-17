@@ -11,7 +11,13 @@
 -----
 ### Sustainable Development Goals (SDGs)
 -----
+<p align = "center">Renewable energy solutions are becoming cheaper, more reliable and more efficient every day.Our current reliance on fossil fuels is unsustainable and harmful to the planet, which is why we have to change the way we produce and consume energy. Implementing these new energy solutions as fast as possible is essential to counter climate change, one of the biggest threats to our own survival.</p>
+
+**<p align="center">Goal 7: Affordable and Clean Energy </p>**
+
 ![header 2](https://user-images.githubusercontent.com/114766731/232507317-5b461359-ff05-4083-b710-adb108905862.png)
+
+**<p align="center">Goal 13: Climate Action </p>**
 
 ### Problem Statement
 -----
