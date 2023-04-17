@@ -7,4 +7,8 @@ Falculan, Kristel <br />
 Lucero, Darell Marius <br />
 Panaligan, Kaycee <br />
 # Introduction
-
+# Problem Statement
+# Significance of the Proposed Project
+# Methods
+# Expected Output
+# References
