@@ -3,7 +3,7 @@
 ![header 2](https://user-images.githubusercontent.com/114766731/232358812-211f39c9-42d4-4fde-91af-7f30430afb39.png)
 # Team Members:
 Cortez, Joseph S. <br />
-Falculan, Kritel <br />
+Falculan, Kristel <br />
 Lucero, Darell Marius <br />
 Panaligan, Kaycee <br />
 # Introduction
