@@ -46,7 +46,23 @@ Nevertheless, human activities have profoundly altered most terrestrial ecosyste
 -----
 
 ### Problem Statement
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Urbanization.** The rapid urbanization of the lands are caused by many problems, some inevitable consequences of growth and others avoidable mistakes that have been built up. The problems of urbanization are numerous, one being the deforestation of the woods and the increased need for resources. This rapid urbanization is caused by various problems from numerous sources. One of the causes would be the rapid increase of population and poor city planning. A second would be the need to change the areas, to transform rural areas into modern ones. Another cause would be the modernization and industrialization of cities that would need and consume copious amounts of a variety of resources. These issues bring forth more needs for land, resources, and producing more waste.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Global Warming.** By most accounts, deforestation in tropical rainforests adds more carbon dioxide to the atmosphere than the sum total of cars and trucks on the world’s roads. According to the World Carfree Network (WCN), cars and trucks account for about 14 percent of global carbon emissions, while most analysts attribute upwards of 15 percent to deforestation.The reason that logging is so bad for the climate is that when trees are felled they release the carbon they are storing into the atmosphere, where it mingles with greenhouse gases from other sources and contributes to global warming accordingly. The upshot is that we should be doing as much to prevent deforestation as we are to increase fuel efficiency and reduce automobile usage.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Globalization: Economic Specialization.** One oft-overlooked side effect of globalization is that it allows nations and geographical regions to focus on their economic strengths, content in knowing they can turn to trading partners for goods they don’t produce themselves. This economic specialization often boosts productivity and efficiency.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unfortunately, overspecialization can threaten forest health and lead to serious environmental issues, often in the form of habitat loss, deforestation, or natural resource overuse. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It’s worth considering that globalization has allowed some nations to specialize in producing various energy commodities, such as oil, natural gas, and timber. Nations that depend on energy sales to fund a large portion of their national budgets, along with those that note “energy security” as a priority, are more likely to take intervening actions in the market in the form of subsidies or laws that make transitioning to renewable energy more difficult.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The main byproduct of these energy sources comes in the form of greenhouse gas emissions, which significantly contribute to global warming and climate change.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Globalization: Decreased Biodiversity.** Increased greenhouse gas emissions, ocean acidification, deforestation (and other forms of habitat loss or destruction), climate change, and the introduction of invasive species all work to reduce biodiversity around the globe.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;According to the World Wildlife Fund’s recent Living Planet Report, the population sizes of all organisms—including mammals, birds, fish, amphibians, and reptiles—have decreased 68 percent since 1970. Latin America and Africa—two rapidly developing regions important to global trade—have seen disproportionate levels of biodiversity loss, especially among environmentally sensitive fish, reptiles, and amphibians.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While this decrease in biodiversity has many causes, it’s widely believed that the issues listed above have contributed in part.
 
 -----
 ### Significance of the Proposed Project
@@ -71,8 +87,8 @@ Nevertheless, human activities have profoundly altered most terrestrial ecosyste
 ### References
 * https://www.un.org/sustainabledevelopment/biodiversity/
 * https://sdgs.un.org/goals/goal13
-* https://www.greenpeace.org/international/story/47338/earth-to-humans/
-* https://www.un.org/en/climatechange/climate-solutions/cities-pollution?
+* https://urbanenvironmentalstudies.org/2018/02/27/urbanization-deforestation-2/
+* https://online.hbs.edu/blog/post/globalization-effects-on-environment
 * https://www.un.org/en/global-issues/climate-change?
 * https://www.globalgoals.org/goals/7-affordable-and-clean-energy/
 * https://www.globalgoals.org/goals/13-climate-action/
