@@ -56,17 +56,13 @@ Renewable energy is one of the most effective tools we have in the fight against
 -----
 ### Methods
 
-The researchers will use the datasets provided by Our World in Data to identify areas where renewable energy system efficiency can be improved and to forecast renewable energy demand and supply. The datasets to be used include Statista's global climate change data for observing and monitoring changes on a worldwide scale, as well as understanding and mitigating the effects of renewable energy on climate change. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To evaluate and forecast the various potential consequences of deforestation on climate change, whether they are successful, practicable, or not, the researchers will use the datasets given by Mongabay: Deforestation Statistics Philippines and Climate Knowledge Portal. The datasets to be used include the Tropical Primary Forest Loss as well as the datasets of Tree Cover Loss data here in the Philippines, which can also be used to compare and assess the deforestation and forest loss in other countries in order to analyze whether a large-scale destruction tree can influence the change in global or regional climate patterns.
 
-Data analysis tools are critical for comprehending the consequences of renewable energy and climate change, recognizing trends and patterns in data, and establishing effective climate change mitigation and adaptation measures.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The methods used to analyze the aforementioned datasets and the connections between them are as follows:
 
-The following are the data analysis methodologies used in renewable energy and climate change research:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The researchers will use statistical analysis, which entails data gathering of all pertinent information required to examine and analyze the elements that lead to deforestation. This method will also be used to quantify all of the collected data and conduct other statistical analyses to see whether deforestation affects weather patterns, global warming, and other consequences as well. In particular, the researchers would also use Linear Regression Analysis, since analyzing the relationship between deforestation and climate change will be our main focus. In order to predict possible results and recommend different routes of action and options for all, this technique will help us to fully comprehend how a single factor is affected by another, whether it will remain constant or change.
 
-Time-series analysis is used to examine data that has been collected over time. This technique can be used to analyze trends and patterns in renewable energy generation and consumption, as well as the long-term effects of climate change.
-
-Geographic information systems (GIS) will be utilized to analyze spatial data. It is used to map and study renewable energy resources such as solar wind potential, as well as to estimate the effects of climate change on ecosystems and vulnerable populations.
-
-Life cycle assessment (LCA) is a strategy for assessing the environmental implications of items or processes over their full life cycle. This technique can assist in identifying the environmental implications of renewable energy sources and comparing them to those of non-renewable energy sources.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finally, the researchers will use Python as their main programming language because it is flexible and can handle the challenging datasets available for analysis, enabling them to perform better classification and statistical analysis.
 
 
 ### Expected Output
