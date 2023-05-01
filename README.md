@@ -71,8 +71,8 @@ Nevertheless, human activities have profoundly altered most terrestrial ecosyste
 ### Expected Output
 -----
 ### References
-* https://www.nrdc.org/stories/what-are-causes-climate-change#human
-* https://www.nrdc.org/bio/noah-long/renewable-energy-key-fighting-climate-change
+* https://www.un.org/sustainabledevelopment/biodiversity/
+* https://sdgs.un.org/goals/goal13
 * https://www.greenpeace.org/international/story/47338/earth-to-humans/
 * https://www.un.org/en/climatechange/climate-solutions/cities-pollution?
 * https://www.un.org/en/global-issues/climate-change?
