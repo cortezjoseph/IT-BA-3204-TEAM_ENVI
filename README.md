@@ -1,6 +1,6 @@
 ![DEFORESTATION AS A PRIMARY CONTRIBUTOR TO CLIMATE CHANGE](https://user-images.githubusercontent.com/114766731/235434625-dffde567-cba1-419e-88a6-c452274266b8.png)
 
-# <p align="center"> Analysis of the Relationship between Deforestation and Climate Change </p>
+# <p align="center"> Analysis of the Relationship between Deforestation and Climate Change in the Philippines</p>
 
 ### Team Members
 
