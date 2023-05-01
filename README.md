@@ -1,4 +1,5 @@
-![header](https://user-images.githubusercontent.com/114766731/232354270-c48df43d-bc4e-442d-9863-1bfac8f3857c.png)
+![DEFORESTATION AS A PRIMARY CONTRIBUTOR TO CLIMATE CHANGE](https://user-images.githubusercontent.com/114766731/235434625-dffde567-cba1-419e-88a6-c452274266b8.png)
+
 # <p align="center"> Analysis of How Climate Change is Impacted by Renewable Energy Sources </p>
 
 ### Team Members
