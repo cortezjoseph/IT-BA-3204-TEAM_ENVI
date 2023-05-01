@@ -1,6 +1,6 @@
 ![DEFORESTATION AS A PRIMARY CONTRIBUTOR TO CLIMATE CHANGE](https://user-images.githubusercontent.com/114766731/235434625-dffde567-cba1-419e-88a6-c452274266b8.png)
 
-# <p align="center"> Analysis of the Relationship between Deforestation and Climate Change in the Philippines</p>
+# <p align="center"> Analysis of the Relationship between Deforestation and Climate Change</p>
 
 ### Team Members
 
@@ -66,9 +66,9 @@ Nevertheless, human activities have profoundly altered most terrestrial ecosyste
 
 -----
 ### Significance of the Proposed Project
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ineffectiveness of energy sources and the transition of systems is a barrier to economic and human progress. The environment offers a variety of renewable and non-renewable energy sources, including uranium, sun, wind, hydropower, geothermal, and biofuels. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The planned initiative aims to solve this issue, and assisting in facing country's environmental issues. This study is extremely important to the following people:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Global climate change consequences will result from increased fossil fuel use in the absence of mitigation measures for greenhouse gas emissions. Disaster risk reduction and climate change mitigation are both facilitated by the usage of renewable energy sources and energy efficiency. Ecosystem preservation and protection enable for the continued use and advancement of hydropower and bioenergy sourcesof renewable energy sources and energy efficiency. Ecosystem preservation and protection enable for the continued use and advancement of hydropower and bioenergy sources
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**To the community and its people.** Through this project, they can gain understanding of the issues' trends. They needed to be able to understand the main advantages they will experience after the problems are solved. In terms of environmental issues, it would enable the community and its residents to get education and exercise their fundamental liberties.
 
 -----
 ### Methods
