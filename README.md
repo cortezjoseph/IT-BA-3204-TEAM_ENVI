@@ -30,15 +30,18 @@ Renewable energy is one of the most effective tools we have in the fight against
 
 ### Sustainable Development Goals (SDGs)
 
-<p align = "center">Renewable energy solutions are becoming cheaper, more reliable and more efficient every day. Our current reliance on fossil fuels is unsustainable and harmful to the planet, which is why we have to change the way we produce and consume energy. Implementing these new energy solutions as fast as possible is essential to counter climate change, one of the biggest threats to our own survival.</p>
-
-**<p align="center">Goal 7: Affordable and Clean Energy </p>**
-
-![header 2](https://user-images.githubusercontent.com/114766731/232507317-5b461359-ff05-4083-b710-adb108905862.png)
-
-**<p align="center">Goal 13: Climate Action </p>**
-
 <p align = "center">Climate change is a real and undeniable threat to our entire civilization.The effects are already visible and will be catastrophic unless we act now. Through education, innovation and adherence to our climate commitments, we can make the necessary changes to protect the planet. These changes also provide huge opportunities to modernize our infrastructure which will create new jobs and promote greater prosperity across the globe.</p>
+
+**<p align="center">Goal 13: Climate Action</p>**
+
+![22](https://user-images.githubusercontent.com/114766731/235455772-43011b18-a7c4-4baf-ac0e-c9f0a4cf8d49.png)
+
+
+**<p align="center">Goal 15: Life on Land</p>**
+
+<p align = "center">Goal 15 is about conserving life on land. It is to protect and restore terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and stop biodiversity loss. Healthy ecosystems and the biological diversity they support are a source of food, water, medicine, shelter and other material goods. They also provide ecosystem services – the cleaning of air and water – which sustain life and increase resiliency in the face of mounting pressures.
+</br>
+Nevertheless, human activities have profoundly altered most terrestrial ecosystems: around 40,000 species are documented to be at risk of extinction over the coming decades, 10 million hectares of forest (an area the size of Iceland) are being destroyed each year, and more than half of key biodiversity areas remain unprotected.</p>
 
 -----
 
