@@ -6,9 +6,9 @@
 
 -----
 **<h6 align="center">Cortez, Joseph S.</h6>**
-**<h6 align="center">Falculan, Kristel</h6>**
-**<h6 align="center">Lucero, Darell Marius</h6>**
-**<h6 align="center">Panaligan, Kaycee</h6>**
+**<h6 align="center">Falculan, Kristel I.</h6>**
+**<h6 align="center">Lucero, Darell Marius S.</h6>**
+**<h6 align="center">Panaligan, Kaycee A.</h6>**
 
 -----
 ### Introduction
