@@ -90,7 +90,8 @@ Nevertheless, human activities have profoundly altered most terrestrial ecosyste
 * https://sdgs.un.org/goals/goal13
 * https://urbanenvironmentalstudies.org/2018/02/27/urbanization-deforestation-2/
 * https://online.hbs.edu/blog/post/globalization-effects-on-environment
-* https://www.un.org/en/global-issues/climate-change?
-* https://www.globalgoals.org/goals/7-affordable-and-clean-energy/
-* https://www.globalgoals.org/goals/13-climate-action/
+* https://eartheclipse.com/environment/climate-change/how-does-deforestation-affect-climate-change.html
+* https://science.jrank.org/pages/2834/Forests-Forests-natural-resource.html
+* https://climate.mit.edu/explainers/forests-and-climate-change
+
 -----
