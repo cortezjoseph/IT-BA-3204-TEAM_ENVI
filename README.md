@@ -69,6 +69,8 @@ Nevertheless, human activities have profoundly altered most terrestrial ecosyste
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**To the Government and the Department of Environment and Natural Resources (DENR).** They may utilize the knowledge from this effort to better their policies and align them. They can improve the implementation of their projects as well as their laws and regulations. Given their crucial role in the battle against climate change, the government may function as an anchor to connect residents with opportunities. They will profit from the initiative since it will enable them to serve the public more effectively while also increasing awareness. By doing this, they will learn more about this subject and be better able to pick and determine what is most valuable to everyone.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**To the Future Researchers.** The results of this study will aid future academics in understanding how deforestation contributes to climate change. They may use it as a future reference for more research and it would help them become better analysts.
+
 -----
 ### Methods
 
