@@ -1,6 +1,6 @@
 ![DEFORESTATION AS A PRIMARY CONTRIBUTOR TO CLIMATE CHANGE](https://user-images.githubusercontent.com/114766731/235434625-dffde567-cba1-419e-88a6-c452274266b8.png)
 
-# <p align="center"> Analysis of the Potential Effects of Deforestation and its Causes on the Changing Temperatures and Weather Patterns in the Philippines </p>
+# <p align="center"> Analysis of the Potential Effects of Deforestation and its Causes on the Changing Temperatures and Weather Patterns</p>
 
 ### Team Members
 
