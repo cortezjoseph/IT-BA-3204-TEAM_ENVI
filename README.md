@@ -84,6 +84,14 @@ Nevertheless, human activities have profoundly altered most terrestrial ecosyste
 
 
 ### Expected Output
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The objective of this research is to produce factual data that will be utilized to better understand the relationship between deforestation and its causes and shifting climatic trends. By examining the major influence of the widespread deforestation on climate change, this research seeks to enhance the analysis and comprehension of the data gathered through a better representation of principles and concepts that are simpler to comprehend and understand.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The criterion used to determine whether or not to modify and bring into effect the rules and regulation regarding deforestation will be based on the data that will be gathered and tested. Whatever the outcome of the analysis of the provided datasets, awareness of policies, guidelines, and recommendations will still be distributed and conveyed to the entire country in order to analyze and evaluate what course of action must be implemented next.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The outcomes of the initiative would potentially analyze the caused by global tree loss, as well as its effects on the state of the weather and other natural resources. This assists the team in coming up with just and inclusive strategies for the development of the country and to contribute to the achievement of SDG 13 and SDG 15.
+
 -----
 ### References
 * https://www.un.org/sustainabledevelopment/biodiversity/
