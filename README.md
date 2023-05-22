@@ -11,6 +11,10 @@
 **<h6 align="center">Panaligan, Kaycee A.</h6>**
 
 -----
+
+![tagline](https://github.com/cortezjoseph/IT3204_TreeRestrial/assets/113529450/00390966-4a22-4d73-9da7-04ee31bd8b6f)
+
+
 ### Introduction
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forests cover about 30% of the Earth’s land surface. As forests grow, their trees take in carbon from the air and store it in wood, plant matter, and under the soil. If not for forests, much of this carbon would remain in the atmosphere in the form of carbon dioxide (CO2), the most important greenhouse gas driving climate change.
