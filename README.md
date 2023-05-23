@@ -82,7 +82,7 @@ Nevertheless, human activities have profoundly altered most terrestrial ecosyste
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The methods used to analyze the aforementioned datasets and the connections between them are as follows:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The researchers will use statistical analysis, which entails data gathering of all pertinent information required to examine and analyze the elements that lead to deforestation. This method will also be used to quantify all of the collected data and conduct other statistical analyses to see whether deforestation affects weather patterns, global warming, and other consequences as well. In particular, the researchers would also use Linear Regression Analysis, since analyzing the relationship between deforestation and climate change will be our main focus. In order to predict possible results and recommend different routes of action and options for all, this technique will help us to fully comprehend how a single factor is affected by another, whether it will remain constant or change.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The researchers will use statistical analysis, which entails data gathering of all pertinent information required to examine and analyze the elements that lead to deforestation. This method will also be used to quantify all of the collected data and conduct other statistical analyses to see whether deforestation affects weather patterns, global warming, and other consequences as well.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finally, the researchers will use Python as their main programming language because it is flexible and can handle the challenging datasets available for analysis, enabling them to perform better classification and statistical analysis.
 
