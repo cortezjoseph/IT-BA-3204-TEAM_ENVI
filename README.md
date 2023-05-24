@@ -98,6 +98,9 @@ Nevertheless, human activities have profoundly altered most terrestrial ecosyste
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The outcomes of the initiative would potentially analyze the caused by global tree loss, as well as its effects on the state of the weather and other natural resources. This assists the team in coming up with just and inclusive strategies for the development of the country and to contribute to the achievement of SDG 13 and SDG 15.
 
 -----
+
+### Video Presentation Link
+
 ### References
 * https://www.un.org/sustainabledevelopment/biodiversity/
 * https://sdgs.un.org/goals/goal13
