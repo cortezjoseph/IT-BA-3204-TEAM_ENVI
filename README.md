@@ -25,7 +25,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a result, we are unintentionally altering the amount of carbon dioxide in the atmosphere, which could have a significant impact on the rest of the globe, by clearing vast tracts of forest without replacing the trees that are lost.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this context, the analysis of this study focuses on its goals to create an environmental policy and make recommendations for an alternative, eco-friendly solution. These goals will not only aid in slowing down climate change but will also encourage the integration of climate change measures into national strategies, plans, and policies. Boost human and institutional capacity for mitigation, adaptation, impact reduction, and early warning of climate change. Additionally, encourage appropriate access to these resources in accordance with international agreements, as well as fair and equitable sharing of the benefits resulting from the use of genetic resources.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this context, the analysis of this study may assist in developing an environmental policy and make recommendations for an alternative, eco-friendly solution. These goals will not only aid in slowing down climate change but will also encourage the integration of climate change measures into national strategies, plans, and policies. Boost human and institutional capacity for mitigation, adaptation, impact reduction, and early warning of climate change. Additionally, encourage appropriate access to these resources in accordance with international agreements, as well as fair and equitable sharing of the benefits resulting from the use of genetic resources.
 
 -----
 
