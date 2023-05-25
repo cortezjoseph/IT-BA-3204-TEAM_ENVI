@@ -99,6 +99,21 @@ Nevertheless, human activities have profoundly altered most terrestrial ecosyste
 
 -----
 
+### Recommendations
+
+**The Power of the Marketplace**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To make the most of recycled wood, pulp, paper, and fiber in their goods, businesses should establish ambitious goals. They should make sure that any virgin fiber used in the non-recycled products they purchase has transparent, trustworthy assurances that it was sourced legally and in accordance with ethical and social standards. A good place to start when examining sourcing is through third-party certification from organizations like the Forest Stewardship Council. Other weaker certification programs for forest products, such PEFC and SFI, are severely discouraged by Greenpeace.
+
+**Standing with Indigenous Peoples**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indigenous Peoples have lived in forests for tens of thousands of years all across the planet. There is proof that forests survive when Indigenous Peoples' rights to traditional territories and self-determination are upheld. But far too frequently, businesses and governments disregard or purposefully violate the rights of Indigenous Peoples.
+
+**Promoting Sustainable Choices**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By making wise decisions every day, you may contribute to the effort to safeguard forests. We can all contribute to the campaign to safeguard forests by using less, eliminating single-use packaging, eating sustainably, and choosing goods made of recycled or ethically harvested wood. 
+
+**Changing the Politics**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Governments must play a role if we are to reduce deforestation. To live in a future free from severe climate disruption, we need world leaders to support ambitious national and international forest conservation policies based on the most recent scientific research.
+
+
 ### Video Presentation Link
 
 
